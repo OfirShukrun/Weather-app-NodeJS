@@ -1,3 +1,4 @@
+# Weather-app
 A weather-app which provides the current weather by typing a specific location.<br>
 Instructions:<br>
 1.Download all the files and put them all in one folder. give this folder a name(I will use "weather-app" and put it in my desktop).<br>
